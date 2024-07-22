@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     url: env.DATABASE_URL,
   },
-  tablesFilter: ["second-t3_*"],
+  tablesFilter: ["first-t3_*"],
 } satisfies Config;
